@@ -1,3 +1,4 @@
+<img src="https://play-lh.googleusercontent.com/dQbjuW6Jrwzavx7UCwvGzA_sleZe3-Km1KISpMLGVf1Be5N6hN6-tdKxE5RDQvOiGRg">
 Step 1: npm init
 Step 1.1 (optional): #To install nodemon
 npm i nodemon --save-dev
