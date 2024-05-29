@@ -1,5 +1,5 @@
 <img src="https://play-lh.googleusercontent.com/dQbjuW6Jrwzavx7UCwvGzA_sleZe3-Km1KISpMLGVf1Be5N6hN6-tdKxE5RDQvOiGRg" style="width: 100px; height=100px; ">
-<p>momo-wallet integration for website tutorial - nodejs</p>
+<p>momo-wallet integration for website - tutorial - nodejs</p>
 <p>Step 1: <code>npm init</code></p>
 <p>Step 1.1 (optional): Install nodemon</p>
 <pre><code>npm i nodemon --save-dev
