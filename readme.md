@@ -11,8 +11,7 @@
 <p>- To use nodemon, run <code>npm start</code> in the terminal.</p>
 <p>- Then the server will be rerun after any change has been made in the code.</p>
 <p>Step 2: Install packages</p>
-<pre><code>
-npm i express
+<pre><code>npm i express
 npm i axios
 npm i body-parser
 npm i crypto
