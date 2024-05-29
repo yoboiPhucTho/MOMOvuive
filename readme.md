@@ -4,7 +4,8 @@
 <p>Step 1.1 (optional): Install nodemon</p>
 <pre><code>npm i nodemon --save-dev
 </code></pre>
-<pre><code>"scripts": {
+<pre><code>,
+    "scripts": {
     "start": "nodemon app.js"
   }
 </code></pre>
