@@ -1,6 +1,6 @@
 <img src="https://play-lh.googleusercontent.com/dQbjuW6Jrwzavx7UCwvGzA_sleZe3-Km1KISpMLGVf1Be5N6hN6-tdKxE5RDQvOiGRg" style="width: 100px; height=100px; ">
 <p>Step 1: <code>npm init</code></p>
-<p>Step 1.1 (optional): <code># To install nodemon</code></p>
+<p>Step 1.1 (optional): Install nodemon</p>
 <pre><code>npm i nodemon --save-dev
 </code></pre>
 <pre><code>"scripts": {
@@ -11,7 +11,8 @@
 <p>- To use nodemon, run <code>npm start</code> in the terminal.</p>
 <p>- Then the server will be rerun after any change has been made in the code.</p>
 <p>Step 2: Install packages</p>
-<pre><code>npm i express
+<pre><code>
+npm i express
 npm i axios
 npm i body-parser
 npm i crypto
@@ -19,7 +20,6 @@ npm i crypto
 <p>Step 3: Install and SignUp for a ngrok account.</p>
 <p>Because we need to connect your localhost with MOMO server via this ngrok application.</p>
 <p>You can see that I am using a ngrok-generated link in <code>ipnUrl</code> to do a callback call to see the transaction detail.</p>
-
 
 <p><strong>Note:</strong></p>
 <p>Each time you start the server, you need to run:</p>
