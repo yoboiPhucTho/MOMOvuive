@@ -28,7 +28,7 @@ npm i crypto
 <p>in the terminal to assign your ngrok domain to work as your global port online.</p>
 <p>Through this global port, you can transfer your data with the MOMO server.</p>
 <p>You don't have to do this, but I highly recommend it because you don't want to go and generate a link every time you run your server and then copy that into your code, right?</p>
-
+<p>Or you can just type:<pre><code> ngrok http [port]</code></pre> in the termial then replace the <code>ngrokUrl</code> variable in app.js<p>
 
 
 
